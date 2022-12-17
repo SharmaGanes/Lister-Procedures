@@ -122,6 +122,6 @@ Any probems encountered
 
 ---
 
-### Useful Resources
+### Reference
 
-Lister Formal Mark Scheme.
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
