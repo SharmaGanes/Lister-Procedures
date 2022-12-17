@@ -98,6 +98,6 @@ DO NOT SEND VIA PNEUMATIC TUBE SYSTEM!
 
 ---
 
-### Useful Resource 📖
+### Reference 📖
 
-Formal Lister OSCE Mark Scheme
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
