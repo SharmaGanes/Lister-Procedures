@@ -59,6 +59,6 @@ Signs the Drug Chart
 
 ---
 
-### Useful Resource 📖
+### Resource 📖
 
-Lister Formal Mark Scheme
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
