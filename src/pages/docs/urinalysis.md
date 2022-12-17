@@ -66,4 +66,4 @@ Performs hand hygiene
 
 ### Useful Learning Resource
 
-Lister Official OSCE mark scheme
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
