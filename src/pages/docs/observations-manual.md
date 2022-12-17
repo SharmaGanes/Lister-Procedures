@@ -101,6 +101,6 @@ Can explain significance of NEWS escalation policy
 
 ---
 
-### Useful Resource 📖
+### Reference 📖
 
-Lister Official Mark Scheme
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
