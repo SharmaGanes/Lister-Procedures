@@ -89,3 +89,5 @@ Answer: IM Adrenaline 500 mcg/0.5ml 1:1000
 {% /callout %}
 
 ---
+
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
