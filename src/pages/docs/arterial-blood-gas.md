@@ -98,6 +98,6 @@ Answer: Patient ID; Temperature of Patient; FiO2 administered at time of punctur
 
 ---
 
-### Useful Resource 📖
+### Reference 📖
 
-Formal Lister OSCE Mark Scheme
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
