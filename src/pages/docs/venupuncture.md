@@ -79,4 +79,4 @@ Places bottles with ICE request form into sealable pocket of the specimen bag
 
 ### Reference
 
-Official Lister Mark Scheme - Stephanie Smith et al
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
