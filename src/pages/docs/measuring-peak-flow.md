@@ -49,6 +49,6 @@ Informs patient procedure is complete
 
 Performs Hand Hygiene and Disposes of Equipment safely
 
-### Useful Learning Resource 📖
+### Reference 📖
 
-Official Lister Mark Scheme
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
