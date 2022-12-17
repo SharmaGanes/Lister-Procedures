@@ -87,6 +87,6 @@ Answer: Facial, Complex, Tendon/Nerve Involvement, Deep, Evidence of Large Forei
 
 ---
 
-### Useful Resource 📖
+### Reference 📖
 
-Lister Official Mark Scheme
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
