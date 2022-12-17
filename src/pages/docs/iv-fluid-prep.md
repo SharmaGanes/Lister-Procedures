@@ -87,4 +87,6 @@ Signs the drug chart and documents on fluid balance chart
 ---
 
 ### Reference
-Lister Official Mark Scheme - Stephanie Smith et al
+
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
+
