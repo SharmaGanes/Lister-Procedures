@@ -106,3 +106,7 @@ Examiner Q: If you are unable to obtain pH < 5, what would your course of action
 
 Answer: I would not feed, reposition the tube insert another 10-20cm, turn patient to left lateral side and reaspirate, seek senior advice, consider CXR
 {% /callout %}
+
+---
+
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
