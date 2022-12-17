@@ -96,4 +96,4 @@ Completes the "Peripheral Line Care Bundle" and insertion sticker and places the
 
 ### Reference
 
-Official Lister Mark Scheme - Stephanie Smith et al
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
