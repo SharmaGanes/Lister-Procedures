@@ -76,8 +76,8 @@ Dispose clinical waste appropriately
 
 ---
 
-### Useful Learning Resource
+### Reference
 
-Refer to Official Lister Mock OSCE
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
 
 ---
