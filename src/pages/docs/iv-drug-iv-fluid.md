@@ -106,3 +106,7 @@ Examiner Q: What is the treatment for this
 
 Answer: IM Adrenaline 500mcg/0.5ml 1:1000
 {% /callout %}
+
+---
+
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team. 
