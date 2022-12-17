@@ -4,7 +4,7 @@ pageTitle: Lister Clinical Skills - Lister Clinical Skills.
 description: Mark Schemes as developed by Lister Clinical Skills Team
 ---
 
-All content is a derivative of the hardwork of Miss Stephanie Smith, Miss Carly Toll and the amazing undergraduate team at Lister Hospital who have put together a set of clinical skills mark schemes for medical students. Topics covered are listed below. {% .test %}
+All content is a copy of the Lister Procedure Mark Schemes, thanks to the hardwork of Miss Stephanie Smith, Miss Carly Toll, and the incredible undergraduate team at Lister Hospital. Topics covered are listed below. {% .test %}
 
 {% quick-links %}
 
@@ -164,6 +164,6 @@ Details of Any Specimens Collected
 Problems Encountered
 ```
 
-### Useful Resources
+### Reference
 
-Formal Lister Mark Scheme
+This is direct copy of the Official Lister Mark Scheme developed by Miss Stephanie Smith and team.
