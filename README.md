@@ -1,6 +1,6 @@
 # Lister Procedure List
 
-List of Clinical Skills (Procedure) handed out by Lister Medical School
+List of Clinical Skills (Procedure) created by the Lister Undergraduate Team as part of University College London Final Year Curriculum
 
 
 ## Getting started - Dev
